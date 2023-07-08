@@ -17,6 +17,8 @@ body{
 /* nav releted style */
 nav {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
 .nav-title {
@@ -26,6 +28,7 @@ nav {
 }
 nav ul{
     display: flex;
+    align-items: center;
 }
 nav li{
     list-style:none ;

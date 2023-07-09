@@ -96,7 +96,10 @@ nav a{
 main{
    max-width: 1140px;
    margin: 0 auto;
-}
+} 
+/*main section{
+    margin: 130px;
+}*/
 /*about section style*/
 .about{
     padding: 130px;
@@ -130,5 +133,13 @@ main{
 
 }
 .skills-descreption{
+    color: #757575;
 
 }
+/*resume section style*/
+.resume-title{
+color: #474747;
+font-size: 30px;
+font-weight: 700;
+}
+
